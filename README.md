@@ -3,4 +3,4 @@
 
  - test for feature-A
  - test for fix-B
- - faeture-C
+ - feature-C
